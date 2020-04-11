@@ -1,0 +1,45 @@
+{
+    "name": "monokai-dark-green",
+    "displayName": "Monokai Dark Green",
+    "description": "A Monokai like theme replacing that annoying yellow color with a green one!",
+    "version": "0.1.0",
+    "license": "SEE LICENSE IN LICENSE.md",
+    "publisher": "AlvaroIsrael",
+    "bugs": {
+        "url": "https://github.com/AlvaroIsrael/monokai-dark-green/issues"
+    },
+    "homepage": "https://github.com/AlvaroIsrael/monokai-dark-green/",
+    "engines": {
+        "vscode": "^1.26.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/AlvaroIsrael/monokai-dark-green.git"
+    },
+    "author": {
+        "name": "Alvaro Israel Nunes Leite"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "monokai",
+        "green",
+        "dark",
+        "theme"
+    ],
+    "icon": "screenshots/logo.png",
+    "galleryBanner": {
+        "color": "#1A1A1A",
+        "theme": "dark"
+    },
+    "contributes": {
+        "themes": [
+            {
+                "label": "Monokai Dark Green",
+                "uiTheme": "vs-dark",
+                "path": "./themes/monokai-dark-green-color-theme.json"
+            }
+        ]
+    }
+}
