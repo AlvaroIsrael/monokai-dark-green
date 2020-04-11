@@ -4,7 +4,8 @@
  * @param {google.maps.Marker} marker The marker to add.
  * @return {boolean} True if the marker was added.
  */
-Cluster.prototype.addMarker = function(marker) {
+
+Cluster.prototype.addMarker = function (marker) {
   if (this.isMarkerAlreadyAdded(marker)) {
     return false;
   }
@@ -15,8 +16,8 @@ Cluster.prototype.addMarker = function(marker) {
   } else {
     if (this.averageCenter_) {
       var l = this.markers_.length + 1;
-      var lat = (this.center_.lat() * (l-1) + marker.getPosition().lat()) / l;
-      var lng = (this.center_.lng() * (l-1) + marker.getPosition().lng()) / l;
+      var lat = (this.center_.lat() * (l - 1) + marker.getPosition().lat()) / l;
+      var lng = (this.center_.lng() * (l - 1) + marker.getPosition().lng()) / l;
       this.center_ = new google.maps.LatLng(lat, lng);
       this.calculateBounds_();
     }
@@ -52,7 +53,7 @@ Cluster.prototype.addMarker = function(marker) {
  *
  * @return {MarkerClusterer} The associated marker clusterer.
  */
-Cluster.prototype.getMarkerClusterer = function() {
+Cluster.prototype.getMarkerClusterer = function () {
   return this.markerClusterer_;
 };
 
@@ -62,7 +63,7 @@ Cluster.prototype.getMarkerClusterer = function() {
  *
  * @return {google.maps.LatLngBounds} the cluster bounds.
  */
-Cluster.prototype.getBounds = function() {
+Cluster.prototype.getBounds = function () {
   var bounds = new google.maps.LatLngBounds(this.center_, this.center_);
   var markers = this.getMarkers();
   for (var i = 0, marker; marker = markers[i]; i++) {

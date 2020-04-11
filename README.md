@@ -15,6 +15,6 @@ I recommend you enable custom titleBar and menu for linux/Windows - add `"window
 [CHANGELOG.MD](CHANGELOG.md)
 
 # ScreenShot
-![screenshot 1](screenshots/screen-diff-1.png)
+![screenshot 1](screenshots/screen.png)
 
 **Enjoy!**

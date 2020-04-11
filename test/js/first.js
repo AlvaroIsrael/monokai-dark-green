@@ -18,7 +18,6 @@ anotherName(params);
 let a = new Class();
 const b = Class(); // comment @return (boolean)
 
-
 /**
    * Required to validate if the target container is correct.
    *
