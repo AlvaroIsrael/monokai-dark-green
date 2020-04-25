@@ -1,45 +1,64 @@
 {
-    "name": "monokai-dark-green",
-    "displayName": "Monokai Dark Green",
-    "description": "A Monokai like theme replacing that annoying yellow color with a green one!",
-    "version": "0.1.0",
-    "license": "SEE LICENSE IN LICENSE.md",
-    "publisher": "AlvaroIsrael",
-    "bugs": {
-        "url": "https://github.com/AlvaroIsrael/monokai-dark-green/issues"
-    },
-    "homepage": "https://github.com/AlvaroIsrael/monokai-dark-green/",
-    "engines": {
-        "vscode": "^1.26.0"
-    },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/AlvaroIsrael/monokai-dark-green.git"
-    },
-    "author": {
-        "name": "Alvaro Israel Nunes Leite"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "keywords": [
-        "monokai",
-        "green",
-        "dark",
-        "theme"
-    ],
-    "icon": "screenshots/logo.png",
-    "galleryBanner": {
-        "color": "#1A1A1A",
-        "theme": "dark"
-    },
-    "contributes": {
-        "themes": [
-            {
-                "label": "Monokai Dark Green",
-                "uiTheme": "vs-dark",
-                "path": "./themes/monokai-dark-green-color-theme.json"
-            }
-        ]
-    }
+  "name": "theme-monokai-dark-green",
+  "version": "0.1.0",
+  "displayName": "Monokai Dark Green Official",
+  "homepage": "",
+  "description": "Official Monokai Dark Green Theme. A dark theme for vscode replacing that annoying yellow color with a green one!",
+  "publisher": "monokai-dark-green-theme",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node ./scripts/dev.js",
+    "build": "node ./scripts/build.js",
+    "lint": "node ./scripts/lint.js",
+    "package": "vsce package -o ./bin/monokai-dark-green.vsix",
+    "vscode:prepublish": "npm run build"
+  },
+  "maintainers": [
+    "Alvaro Israel Nunes Leite <israel.nunes.leite@gmail.com>"
+  ],
+  "contributors": [],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AlvaroIsrael/vscode-monokai-dark-green.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AlvaroIsrael/vscode-monokai-dark-green/issues"
+  },
+  "engines": {
+    "vscode": "^1.13.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "monokai",
+    "dark",
+    "green",
+    "theme",
+    "color-theme"
+  ],
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#3C3F41",
+    "theme": "dark"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Monokai Dark Green",
+        "uiTheme": "vs-dark",
+        "path": "./theme/monokai-dark-green.json"
+      },
+      {
+        "label": "Monokai Dark Green Soft",
+        "uiTheme": "vs-dark",
+        "path": "./theme/monokai-dark-green-soft.json"
+      }
+    ]
+  },
+  "devDependencies": {
+    "js-yaml": "^3.13.1",
+    "prettier": "^1.17.0",
+    "tinycolor2": "^1.4.1"
+  }
 }

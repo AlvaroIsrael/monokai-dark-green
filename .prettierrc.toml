@@ -1,0 +1,9 @@
+printWidth = 120
+singleQuote = true
+trailingComma = 'all'
+bracketSpacing = false
+
+[[overrides]]
+  files = '*.js'
+  [overrides.options]
+    trailingComma = 'es5'
