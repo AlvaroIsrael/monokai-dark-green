@@ -278,3 +278,6 @@ hs_err_pid*
 
 #expo folder
 .expo-shared
+
+bin/
+.vsix
