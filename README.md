@@ -17,7 +17,7 @@ or
 You can also build your own .vsix extension. Just download the dependencies in package.json using npm
 
 ```
-cd vscode-monokai-dark-green
+cd monokai-dark-green
 mkdir bin
 npm install
 ```
