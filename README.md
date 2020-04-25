@@ -7,7 +7,7 @@ Then I decided to change it to green (which is my second favorite color) and mad
 
 I have taken the files structure to maintain this project from [Dracula](https://github.com/dracula/visual-studio-code/) after participating on a youtube live with the creator of that amazing theme.
 
-I also wanted to give the proper credit to [Monokai-ST3-theme-for-vscode](https://github.com/volosovich/Monokai-ST3-theme-for-vscode). I used that theme as an inpiration to tweak and build my own.
+I also wanted to give the proper credit to [Monokai-ST3-theme-for-vscode](https://github.com/volosovich/Monokai-ST3-theme-for-vscode). I used that theme as an inspiration to tweak and build my own.
 
 # Docs & Contribution
 To start using your extension with Visual Studio Code you can simply copy the folder "theme" with the .jsons into the `<user home>/.vscode/extensions` folder, rename the folder with a more desccritive name, like 'monokai-dar-green' and restart VSCode and select the theme from the menu.
