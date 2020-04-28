@@ -4,7 +4,7 @@
   "displayName": "Monokai Dark Green",
   "homepage": "",
   "description": "Monokai Dark Green Theme. A dark theme for vscode replacing that annoying yellow color with a green one!",
-  "publisher": "monokai-dark-green-theme",
+  "publisher": "alvaro-israel-nunes-leite",
   "license": "MIT",
   "scripts": {
     "dev": "node ./scripts/dev.js",
