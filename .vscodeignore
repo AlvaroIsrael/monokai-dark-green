@@ -1,8 +1,10 @@
 src/**
 .editorconfig
 node_modules
+.vscode/**
 build.js
 .github/*
 .vscode/**
+scripts/**
 bootstrap.sh
 known_issues.md

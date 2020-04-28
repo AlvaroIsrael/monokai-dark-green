@@ -10,7 +10,15 @@ I have taken the files structure to maintain this project from [Dracula](https:/
 I also wanted to give the proper credit to [Monokai-ST3-theme-for-vscode](https://github.com/volosovich/Monokai-ST3-theme-for-vscode). I used that theme as an inspiration to tweak and build my own.
 
 # Docs & Contribution
-To start using your extension with Visual Studio Code you can simply copy the folder "theme" with the .jsons into the `<user home>/.vscode/extensions` folder, rename the folder with a more descritive name, like 'monokai-dark-green' and restart VSCode and select the theme from the menu.
+To start using your extension with Visual Studio Code you can simply copy the folder "theme" with the .jsons into one of those folders below
+
+```
+Windows %USERPROFILE%\.vscode\extensions
+macOS ~/.vscode/extensions
+Linux ~/.vscode/extensions
+```
+
+Rename the "theme" folder with a more descritive name, like 'monokai-dark-green', restart VSCode and select the Monokai Dark Green from the menu.
 
 or
 
@@ -30,6 +38,13 @@ npm run package
 
 Your new theme should be avaliable inside ./bin folder to be installed in vscode.
 
+PS.: Note this theme could also be downloaded from the Visual Studio Marketplace.
+
+# Font & Icons
+This is just a color theme, this does not include and font nor icons but I would recommend my favorites:
+
+- [FiraCode](https://github.com/tonsky/FiraCode) a very neat and free font with ligatures for coders.
+- [Material Icon Theme](https://github.com/PKief/vscode-material-icon-theme) my personal choice for icons.
 
 # Changelog
 [CHANGELOG.MD](CHANGELOG.md)

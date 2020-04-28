@@ -281,3 +281,4 @@ hs_err_pid*
 
 bin/
 .vsix
+.vscode
