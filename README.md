@@ -1,5 +1,5 @@
-# Monokai Dark Green for [Visual Studio Code](http://code.visualstudio.com)
-A simple VSCode dark theme based on Monokai, replacing that annoying yellow color with a green one! [Visual Studio Code](http://code.visualstudio.com).
+# Monokai Dark Green for [Visual Studio Code](https://code.visualstudio.com)
+A simple VSCode dark theme based on Monokai, replacing that annoying yellow color with a green one! [Visual Studio Code](https://code.visualstudio.com).
 
 # History
 I just hated the Monokai's orignal yellish look of the strings. But I also loved the rest of the theme. I usually used a lot of strings in my code and that yellow color just pissed me off a lot! I really have no idea why.
@@ -41,7 +41,7 @@ Your new theme should be avaliable inside ./bin folder to be installed in vscode
 PS.: Note this theme could also be downloaded from the Visual Studio Marketplace.
 
 # Font & Icons
-This is just a color theme, this does not include and font nor icons but I would recommend my favorites:
+This is just a color theme, this does not include a font nor icons but I can recommend my favorites:
 
 - [FiraCode](https://github.com/tonsky/FiraCode) a very neat and free font with ligatures for coders.
 - [Material Icon Theme](https://github.com/PKief/vscode-material-icon-theme) my personal choice for icons.
@@ -54,6 +54,6 @@ This is just a color theme, this does not include and font nor icons but I would
 
 ## :memo: License
 
-This project is under MIT License. See [LICENSE](./LICENSE.md) for more details.
+This project is under MIT License. See [LICENSE](LICENSE.md) for more details.
 
 **Enjoy!**

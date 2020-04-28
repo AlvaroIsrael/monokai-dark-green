@@ -1,9 +1,9 @@
 {
   "name": "theme-monokai-dark-green",
   "version": "0.1.0",
-  "displayName": "Monokai Dark Green Official",
+  "displayName": "Monokai Dark Green",
   "homepage": "",
-  "description": "Official Monokai Dark Green Theme. A dark theme for vscode replacing that annoying yellow color with a green one!",
+  "description": "Monokai Dark Green Theme. A dark theme for vscode replacing that annoying yellow color with a green one!",
   "publisher": "monokai-dark-green-theme",
   "license": "MIT",
   "scripts": {
@@ -19,10 +19,10 @@
   "contributors": [],
   "repository": {
     "type": "git",
-    "url": "https://github.com/AlvaroIsrael/vscode-monokai-dark-green.git"
+    "url": "https://github.com/AlvaroIsrael/monokai-dark-green.git"
   },
   "bugs": {
-    "url": "https://github.com/AlvaroIsrael/vscode-monokai-dark-green/issues"
+    "url": "https://github.com/AlvaroIsrael/monokai-dark-green/issues"
   },
   "engines": {
     "vscode": "^1.13.0"
@@ -37,7 +37,7 @@
     "theme",
     "color-theme"
   ],
-  "icon": "icon.png",
+  "icon": "screenshots/icon.png",
   "galleryBanner": {
     "color": "#3C3F41",
     "theme": "dark"

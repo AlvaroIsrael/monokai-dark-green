@@ -8,3 +8,7 @@ build.js
 scripts/**
 bootstrap.sh
 known_issues.md
+.idea
+.prettierrc.toml
+.gitignore
+bin/
