@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 Please read [README.md](./README.md "Need to read") file first, if you have any questions.
 
+## **0.1.2** - 2020-05-02
+### Added
+- Updated README.md file
+
 ## **0.1.1** - 2020-04-27
 ### Added
 - Updated README.md file
