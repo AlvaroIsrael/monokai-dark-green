@@ -1,5 +1,6 @@
 # Monokai Dark Green for [Visual Studio Code](https://code.visualstudio.com)
-A simple VSCode dark theme based on Monokai, replacing that annoying yellow color with a green one!
+A simple VSCode dark theme based on Monokai, replacing that yellow color by a green one!
+If you like this theme, don't forget to leave a star at [Github](https://github.com/AlvaroIsrael/monokai-dark-green). 
 
 # ScreenShot
 ![screenshot 1](screenshots/screen.png)
@@ -33,7 +34,8 @@ mkdir bin
 npm install
 ```
 
-After that if you would like to play around with new colors, feel free to fork it (don't forget to give my theme a star before you do so) and edit the colors in the monokai-dark-green.yml. Once you feel like testing it just run the script build with:
+After that if you would like to play around with new colors, feel free to fork it and edit the colors in the monokai-dark-green.yml.
+Once you feel like testing it just run the script build with:
 
 ```
 npm run package
@@ -41,7 +43,7 @@ npm run package
 
 Your new theme should be avaliable inside ./bin folder to be installed in vscode.
 
-PS.: Note this theme could also be downloaded from the Visual Studio Marketplace.
+PS.: Note this theme can also be downloaded and installed from the [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=alvaro-israel-nunes-leite.theme-monokai-dark-green).
 
 # Font & Icons
 This is just a color theme, this does not include a font nor icons but I can recommend my favorites:
@@ -52,7 +54,7 @@ This is just a color theme, this does not include a font nor icons but I can rec
 # Changelog
 [CHANGELOG.MD](CHANGELOG.md)
 
-## License
+# License
 
 This project is under MIT License. See [LICENSE](LICENSE.md) for more details.
 
