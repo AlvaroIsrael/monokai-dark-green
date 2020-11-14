@@ -34,6 +34,7 @@ monokai:
     - &COLOR13 "#AE81FF"
     - &COLOR14 "#66D9EF"
     - &COLOR15 "#CFBFAD"
+    - &COLOR16 "#4B6EAE"
   other:
     - &WHITE "#FFFFFF"
     - &DEBUG "#90908A"
@@ -93,15 +94,15 @@ colors:
   # Editor Colors
   editor.foreground: *FG
   editor.background: *BG
-  editor.selectionBackground: *SELECTION # Color of the editor selection
-  editor.selectionHighlightBackground: # Color for regions with the same content as the selection
-  editor.inactiveSelectionBackground: # Color of the selection in an inactive editor
-  editor.wordHighlightBackground: # Background color of a symbol during read-access, for example when reading a variable
-  editor.wordHighlightStrongBackground: # Background color of a symbol during write-access, for example when writing to a variable
-  editor.findMatchBackground: *BROWN # No description
+  editor.selectionBackground: *COLOR16 # Color of the editor selection
+  editor.selectionHighlightBackground: *COLOR16 # Color for regions with the same content as the selection
+  editor.inactiveSelectionBackground: *COLOR16 # Color of the selection in an inactive editor
+  editor.wordHighlightBackground: *COLOR16 # Background color of a symbol during read-access, for example when reading a variable
+  editor.wordHighlightStrongBackground: *TRANSPARENT # Background color of a symbol during write-access, for example when writing to a variable
+  editor.findMatchBackground: # No description
   editor.findMatchHighlightBackground: *DEBUG # Color of the other search matches
   editor.findRangeHighlightBackground: # Color the range limiting the search
-  editor.hoverHighlightBackground: # Highlight below the word for which a hover is shown
+  editor.hoverHighlightBackground: *SELECTION # Highlight below the word for which a hover is shown
   editor.lineHighlightBackground: *SELECTION # Background color for the highlight of line at the cursor position
   editor.lineHighlightBorder: # Background color for the border around the line at the cursor position
   editor.rangeHighlightBackground: # Background color of highlighted ranges, like by Quick Open and Find features
@@ -125,12 +126,12 @@ colors:
   editorGroupHeader.noTabsBackground: # Background color of the editor group title header when Tabs are disabled
   editorGroupHeader.tabsBackground: *BG # Background color of the Tabs container
   editorGroupHeader.tabsBorder: # Border color of the editor group title header when tabs are enabled. Editor groups are the containers of editors
-  tab.activeBackground: # Active Tab background color
+  tab.activeBackground: *SELECTION # Active Tab background color
   tab.activeForeground: *FG # Active Tab foreground color in an active group
   tab.border: *TRANSPARENT # Border to separate Tabs from each other
   tab.activeBorder: *TRANSPARENT # A border drawn to the bottom of the active tab
   tab.unfocusedActiveBorder: *SELECTION # A border drawn to the bottom of the active tab in an editor group that is not focused
-  tab.inactiveBackground: *SELECTION # Inactive Tab background color
+  tab.inactiveBackground: *BG # Inactive Tab background color
   tab.inactiveForeground: *FG # Inactive Tab foreground color in an active group, needs to be bright so it's readable when another editor group is focused
   tab.unfocusedActiveForeground: # Active tab foreground color in an inactive editor group
   tab.unfocusedInactiveForeground: # Inactive tab foreground color in an inactive editor group
