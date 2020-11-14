@@ -1,10 +1,9 @@
-<h1 align="center">
+# Monokai Dark Green for [Visual Studio Code](https://code.visualstudio.com)
+<div align="center">
     <object data="screenshots/icon.svg" type="image/svg+xml">
       <img  alt="iCar App" width="200" height="200" src="screenshots/icon.png"/>
     </object>
-</h1>
-
-# Monokai Dark Green for [Visual Studio Code](https://code.visualstudio.com)
+</div>
 A simple VSCode dark theme based on Monokai, replacing that yellow color by a green one!
 
 If you like this theme, don't forget to leave a star at [Github](https://github.com/AlvaroIsrael/monokai-dark-green).
