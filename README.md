@@ -1,5 +1,5 @@
 <div align="center">
-      <img alt="iCar App" width="200" height="200" src="https://raw.githubusercontent.com/AlvaroIsrael/monokai-dark-green/master/screenshots/icon.svg"/>
+      <img alt="iCar App" width="200" height="200" src="https://raw.githubusercontent.com/AlvaroIsrael/monokai-dark-green/master/screenshots/icon.png"/>
 </div>
 
 # 💎 Monokai Dark Green for [Visual Studio Code](https://code.visualstudio.com)
