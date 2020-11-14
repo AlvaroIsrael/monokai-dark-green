@@ -57,7 +57,7 @@ This is just a color theme, this does not include a font nor icons but I can rec
 - [Material Icon Theme](https://github.com/PKief/vscode-material-icon-theme) my personal choice for icons.
 
 # 👉🏻 Changelog
-[CHANGELOG.MD](CHANGELOG.md)
+- [CHANGELOG.MD](CHANGELOG.md)
 
 # 📝 License
 This project is under MIT License. See [LICENSE](LICENSE.md) for more details.
