@@ -2,15 +2,15 @@
       <img  alt="iCar App" width="200" height="200" src="https://raw.githubusercontent.com/AlvaroIsrael/monokai-dark-green/master/screenshots/icon.svg"/>
 </div>
 
-# Monokai Dark Green for [Visual Studio Code](https://code.visualstudio.com)
+# 💎 Monokai Dark Green for [Visual Studio Code](https://code.visualstudio.com)
 A simple VSCode dark theme based on Monokai, replacing that yellow color by a green one!
 
 If you like this theme, don't forget to leave a star at [Github](https://github.com/AlvaroIsrael/monokai-dark-green).
 
-# ScreenShot
+# 🎨 ScreenShot
 ![screenshot 1](screenshots/screen.png)
 
-# History
+# 📌 History
 I just did not like the Monokai's orignal yellish look of the strings. But I also loved the rest of the theme. I use a lot of strings in my code and that yellow color just pissed me off a lot! I really have no idea why.
 Then I have decided to chage it from yellow to green (which is my second favorite color). Then I made this dark theme so others, also annoyed by taht yellow color, could also benefit from it.
 
@@ -18,7 +18,7 @@ I have taken the files structure to maintain this project from [Dracula](https:/
 
 I also wanted to give the proper credit to [Monokai-ST3-theme-for-vscode](https://github.com/volosovich/Monokai-ST3-theme-for-vscode). I have used that theme as an inspiration to tweak and build my own.
 
-# Docs & Contribution
+# 💻 Docs & Contribution
 To start using your extension with Visual Studio Code you can simply copy the folder "theme" with the .jsons into one of those folders below
 
 ```
@@ -50,16 +50,16 @@ Your new theme should be avaliable inside ./bin folder to be installed in vscode
 
 PS.: Note this theme can also be downloaded and installed from the [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=alvaro-israel-nunes-leite.theme-monokai-dark-green).
 
-# Font & Icons
+# 🏆 Font & Icons
 This is just a color theme, this does not include a font nor icons but I can recommend my favorites:
 
 - [FiraCode](https://github.com/tonsky/FiraCode) a very neat and free font with ligatures for coders.
 - [Material Icon Theme](https://github.com/PKief/vscode-material-icon-theme) my personal choice for icons.
 
-# Changelog
+# 👉🏻 Changelog
 [CHANGELOG.MD](CHANGELOG.md)
 
-# License
+# 📝 License
 This project is under MIT License. See [LICENSE](LICENSE.md) for more details.
 
 Made with ❤️ by Alvaro Israel 👏🏻 [Get in touch!](https://www.linkedin.com/in/alvaroisraeldesenvolvedor/)
