@@ -7,8 +7,8 @@ A simple VSCode dark theme based on Monokai, replacing that yellow color by a gr
 
 If you like this theme, don't forget to leave a ⭐️ at [Github](https://github.com/AlvaroIsrael/monokai-dark-green).
 
-<p align="center">Made with ❤️ by Alvaro Israel 👏🏻 [Get in touch!](https://www.linkedin.com/in/alvaroisraeldesenvolvedor/)
-**Enjoy!**</p>
+Made with ❤️ by Alvaro Israel 👏🏻 [Get in touch!](https://www.linkedin.com/in/alvaroisraeldesenvolvedor/)
+**Enjoy!**
 
 # 🎨 ScreenShot
 ![screenshot 1](screenshots/screen.png)
