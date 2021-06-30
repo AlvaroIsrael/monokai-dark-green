@@ -1,1 +1,26 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660.6 489.6"><defs><style>.cls-1{fill:#a6e22e;}.cls-2{fill:#1a1a1a;}.cls-3{fill:#cfbfad;}.cls-4{fill:#3c3f41;}.cls-5{fill:#f92672;}</style></defs><g id="Camada_2" data-name="Camada 2"><g id="Layer_1" data-name="Layer 1"><polygon class="cls-1" points="330.3 489.6 0 165 660.6 165 330.3 489.6"/><rect class="cls-2" x="148.6" width="182" height="165"/><rect class="cls-3" x="330.6" width="182" height="165"/><polygon class="cls-2" points="202.3 165 0 165 330.3 489.6 202.3 165"/><polygon class="cls-4" points="456.5 165 330.3 489.6 660.6 165 456.5 165"/><polygon class="cls-4" points="202.3 165 330.3 0.2 456.5 165 202.3 165"/><polygon class="cls-5" points="202.3 165 148.6 0.2 0 165 202.3 165"/><polyline class="cls-5" points="456.5 165.1 512 0.3 660.6 165.1"/></g></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Camada_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 660.6 489.6" style="enable-background:new 0 0 660.6 489.6;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#A6E22E;}
+	.st1{fill:#1A1A1A;}
+	.st2{fill:#CFBFAD;}
+	.st3{fill:#3C3F41;}
+	.st4{fill:#F92672;}
+</style>
+<g id="Camada_2_1_">
+	<g id="Layer_1">
+		<polygon class="st0" points="456.5,165 330.3,489.6 0,165 		"/>
+		<polygon class="st0" points="660.6,165 660.5,165.1 660.5,165.1 456.5,165.1 456.5,165 		"/>
+		<rect x="148.6" class="st1" width="182" height="165"/>
+		<rect x="330.6" y="0" class="st2" width="182" height="165"/>
+		<polygon class="st1" points="202.3,165 0,165 330.3,489.6 		"/>
+		<polygon class="st3" points="660.5,165.1 330.3,489.6 456.5,165 456.5,165 456.5,165.1 		"/>
+		<polygon class="st3" points="660.6,165 660.5,165.1 660.5,165.1 456.5,165.1 456.5,165 		"/>
+		<polygon class="st3" points="202.3,165 330.3,0.2 456.5,165 		"/>
+		<polygon class="st4" points="202.3,165 148.6,0.2 0,165 		"/>
+		<polygon class="st4" points="660.6,165.1 456.5,165.1 456.5,165 512,0.3 512.6,1 660.5,165 660.5,165.1 		"/>
+	</g>
+</g>
+</svg>

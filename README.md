@@ -5,14 +5,17 @@
 # 💎 Monokai Dark Green for [Visual Studio Code](https://code.visualstudio.com)
 A simple VSCode dark theme based on Monokai, replacing that yellow color by a green one!
 
-If you like this theme, don't forget to leave a star at [Github](https://github.com/AlvaroIsrael/monokai-dark-green).
+If you like this theme, don't forget to leave a ⭐️ at [Github](https://github.com/AlvaroIsrael/monokai-dark-green).
+
+<p align="center">Made with ❤️ by Alvaro Israel 👏🏻 [Get in touch!](https://www.linkedin.com/in/alvaroisraeldesenvolvedor/)
+**Enjoy!**</p>
 
 # 🎨 ScreenShot
 ![screenshot 1](screenshots/screen.png)
 
 # 📌 History
 I just did not like the Monokai's orignal yellish look of the strings. But I also loved the rest of the theme. I use a lot of strings in my code and that yellow color just pissed me off a lot! I really have no idea why.
-Then I have decided to chage it from yellow to green (which is my second favorite color). Then I made this dark theme so others, also annoyed by taht yellow color, could also benefit from it.
+Then I decided to change it from yellow to green (which is my second favorite color). Because of that this dark theme was created! Now others, also annoyed by that yellow color, could also benefit from it.
 
 I have taken the files structure to maintain this project from [Dracula](https://github.com/dracula/visual-studio-code/) after participating on a youtube live with the creator of that amazing theme.
 
@@ -61,6 +64,3 @@ This is just a color theme, this does not include a font nor icons but I can rec
 
 # 📝 License
 This project is under MIT License. See [LICENSE](LICENSE.md) for more details.
-
-Made with ❤️ by Alvaro Israel 👏🏻 [Get in touch!](https://www.linkedin.com/in/alvaroisraeldesenvolvedor/)
-**Enjoy!**

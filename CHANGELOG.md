@@ -7,6 +7,11 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 Please read [README.md](./README.md "Need to read") file first, if you have any questions.
 
+## **0.1.4** - 2021-06-30
+### Added
+- Updated theme logo icon to remove small extra green line.
+- Updated README.md file to fix typos. Solved github issues #1.
+
 ## **0.1.3** - 2020-11-14
 ### Added
 - Changed selection color from #3C3F41 to #4B6EAE.
